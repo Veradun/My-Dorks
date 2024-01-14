@@ -1,3 +1,8 @@
+#Pastebin leaks for companies
+
+site:"pastebin.com" ".tesla.com" api
+
+
 site: pastebin.com allintext:CCTV leaks ip without password
 allintext:CCTV leaks ip
 site:pasebin.com allintext:CCTV leaks ip

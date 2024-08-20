@@ -1,3 +1,9 @@
+#Latest Dorks on top
+
+#Forgotten web servers 
+
+site:"domain_name" inurl:hello | inurl:beta | inurl:test | inurl:env | inurl:dev | inurl:staging | inurl:sandbox | inurl:debug | inurl:temp | inurl:internal | inurl:demo
+
 #Pastebin leaks for companies
 
 site:"pastebin.com" ".tesla.com" api
